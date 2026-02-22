@@ -7,7 +7,7 @@ const projects = [
     title: "Hajira Khata (হাজিরা খাতা)",
     category: "Mobile App",
     description: "A digital attendance and student management solution for educational institutions with 35+ screens and user-focused design.",
-    image: "https://i.postimg.cc/m27Y47M0/Hajira-Khata.png",
+    image: "https://raw.githubusercontent.com/Sabariya2556/Sabariya-Muzumder/refs/heads/main/Cover.png",
     color: "from-indigo-500/20 to-blue-500/20",
     link: "https://www.figma.com/design/iZB9K57B1Uj8epcyB0adWv"
   },
