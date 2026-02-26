@@ -1,6 +1,5 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FileText } from 'lucide-react';
 
 const About = () => {
   return (
@@ -80,8 +79,7 @@ const About = () => {
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-4 bg-white/5 hover:bg-white/10 text-white border border-white/10 rounded-2xl font-bold transition-all hover:scale-[1.02] active:scale-[0.98]"
             >
-              <FileText size={20} className="text-brand" />
-              View CV
+              Resume
             </a>
           </motion.div>
         </motion.div>
